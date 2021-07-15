@@ -1,2 +1,2 @@
 # Terminal-Project
-CV practice project in a terminal appearance taken as a practice from Brad Traversy Channel
+CV project in a terminal appearance taken as a javascript practice from Brad Traversy Channel
